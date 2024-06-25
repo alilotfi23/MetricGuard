@@ -21,7 +21,7 @@ This project is a Linux monitoring system built using FastAPI and psutil. It pro
 1. Clone the repository:
     ```sh
     git clone https://github.com/alilotfi23/linux-monitoring-system.git
-    cd linux-monitoring-system
+    cd MetricGuard
     ```
 
 2. Create a virtual environment and activate it:

@@ -1,7 +1,7 @@
 import psutil
 import logging
-from utils import bytes_to_gb
 from typing import Dict
+from utils.conversions import bytes_to_gb
 
 logger = logging.getLogger(__name__)
 

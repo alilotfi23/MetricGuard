@@ -1,5 +1,3 @@
----
-
 #  MetricGuard
 
 ## Overview
@@ -106,6 +104,11 @@ uvicorn main:app --reload
 - `terminal`: Terminal.
 - `host`: Host.
 - `started`: Start time.
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 

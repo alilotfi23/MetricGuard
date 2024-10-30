@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Linux monitoring system built using FastAPI and psutil. It provides detailed metrics about the system's CPU, memory, disk usage, network, uptime, and logged-in users through a RESTful API.
+This project is a Linux monitoring system built using FastAPI and psutil. A RESTful API provides detailed metrics about the system's CPU, memory, disk usage, network, uptime, and logged-in users.
 
 ## Features
 
